@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/MLops/mlruns/431371262531553208/faeba6538d964b3f9c85297960622e50/artifacts
+end_time: 1728435854300
+entry_point_name: ''
+experiment_id: '431371262531553208'
+lifecycle_stage: active
+run_id: faeba6538d964b3f9c85297960622e50
+run_name: bustling-perch-971
+run_uuid: faeba6538d964b3f9c85297960622e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728435854237
+status: 4
+tags: []
+user_id: Rholan

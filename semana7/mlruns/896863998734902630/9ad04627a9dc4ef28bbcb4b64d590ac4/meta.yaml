@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/MLops/semana7/mlruns/896863998734902630/9ad04627a9dc4ef28bbcb4b64d590ac4/artifacts
+end_time: 1728520796577
+entry_point_name: ''
+experiment_id: '896863998734902630'
+lifecycle_stage: active
+run_id: 9ad04627a9dc4ef28bbcb4b64d590ac4
+run_name: resilient-kite-947
+run_uuid: 9ad04627a9dc4ef28bbcb4b64d590ac4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728520790154
+status: 3
+tags: []
+user_id: Rholan

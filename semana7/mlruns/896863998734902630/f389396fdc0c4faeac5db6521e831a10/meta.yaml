@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/MLops/semana7/mlruns/896863998734902630/f389396fdc0c4faeac5db6521e831a10/artifacts
+end_time: 1728520833266
+entry_point_name: ''
+experiment_id: '896863998734902630'
+lifecycle_stage: active
+run_id: f389396fdc0c4faeac5db6521e831a10
+run_name: unleashed-cow-510
+run_uuid: f389396fdc0c4faeac5db6521e831a10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728520827058
+status: 3
+tags: []
+user_id: Rholan

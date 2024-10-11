@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/MLops/semana7/mlruns/896863998734902630/c65bb6387c6248b89b25c64d4dfa8af3/artifacts
+end_time: 1728521270731
+entry_point_name: ''
+experiment_id: '896863998734902630'
+lifecycle_stage: active
+run_id: c65bb6387c6248b89b25c64d4dfa8af3
+run_name: fun-shrimp-974
+run_uuid: c65bb6387c6248b89b25c64d4dfa8af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728521264791
+status: 3
+tags: []
+user_id: Rholan

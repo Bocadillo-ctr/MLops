@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.16.2
+model_size_bytes: 5673605
+model_uuid: f1c344889b4443b5938e793aae24bca9
+run_id: 9ad04627a9dc4ef28bbcb4b64d590ac4
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "Gender", "required": true}, {"type": "double",
+    "name": "Age", "required": true}, {"type": "double", "name": "HasDrivingLicense",
+    "required": true}, {"type": "double", "name": "RegionID", "required": true}, {"type":
+    "double", "name": "Switch", "required": true}, {"type": "string", "name": "PastAccident",
+    "required": true}, {"type": "double", "name": "AnnualPremium", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2024-10-10 00:39:52.372447'

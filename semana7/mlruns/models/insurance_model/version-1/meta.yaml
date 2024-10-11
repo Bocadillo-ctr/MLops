@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728520465070
+current_stage: None
+description: null
+last_updated_timestamp: 1728520465070
+name: insurance_model
+run_id: 8dd13b1df45941b7accf22486a7103a6
+run_link: null
+source: file:///C:/Users/User/MLops/semana7/mlruns/896863998734902630/8dd13b1df45941b7accf22486a7103a6/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/MLops/semana7/mlruns/896863998734902630/8dd13b1df45941b7accf22486a7103a6/artifacts/model
+user_id: null
+version: 1
